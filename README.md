@@ -1,16 +1,96 @@
-## Hi there 👋
+# Hi, I'm Ravi Kumar Gupta 👋
 
-<!--
-**btwitravi/btwitravi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst | Python | SQL | Power BI | Excel | MySQL  
+Delhi, India | Open to full-time Data Analyst opportunities  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I am a Data Analyst with hands-on experience in Python, SQL, Excel, and Power BI.  
+I enjoy working on real-world datasets, performing data cleaning, exploratory analysis, and creating dashboards that help in business decision-making.
+
+---
+
+## Experience
+
+### Data Science Intern — Xapotech Systems Pvt. Ltd.  
+**Aug 2023 – Feb 2024**
+
+- Worked on multiple analytics projects using Python, SQL, and Excel  
+- Cleaned and prepared structured datasets for analysis  
+- Performed EDA to identify trends, patterns, and KPIs  
+- Built Power BI dashboards to visualize insights for reporting  
+- Documented analysis and findings for portfolio use  
+
+---
+
+## Certifications
+
+- **Master in Data Science** — Croma Campus Training and Development Pvt. Ltd.  
+- **IBM Data Science Methodology** — Cognitive Class  
+- **Deloitte Data Analytics Job Simulation** — Forage  
+
+---
+
+## Projects
+
+### 🎵 Spotify Music Analytics — Python, SQL, Power BI  
+🔗 https://github.com/btwitravi/Spotify-Music-Analytics---Python_SQL_PowerBi  
+- Analyzed Spotify music data to identify popularity and trend patterns  
+- Performed data cleaning and exploratory analysis using Python  
+- Used SQL for querying and structured analysis  
+- Visualized insights and key metrics using Power BI  
+
+---
+
+### 🚗 Car Price Analysis — SQL, Power BI  
+🔗 https://github.com/btwitravi/Car-Price-Analysis-SQL-Power-Bi  
+- Analyzed car pricing data across brands, fuel types, and transmission  
+- Wrote SQL queries using joins and aggregations  
+- Built Power BI visuals to highlight pricing trends and comparisons  
+
+---
+
+### 🏠 Airbnb Analysis — Python, MySQL, Power BI  
+🔗 https://github.com/btwitravi/Airbnb-Anaysis-Python-MySQL-PowerBi  
+- Cleaned and standardized Airbnb listing data  
+- Performed EDA on pricing and room-type patterns  
+- Stored curated data in MySQL and visualized insights in Power BI  
+
+---
+
+### 🚕 Uber Pickup Analysis — Python  
+🔗 https://github.com/btwitravi/Uber-Pickup-Analysis  
+- Analyzed Uber pickup demand across hourly, daily, and monthly levels  
+- Identified peak demand periods using Python visualizations  
+
+---
+
+### 🛒 Retail Sales Analysis — Python, SQL, Power BI  
+🔗 https://github.com/btwitravi/Retails_Sales_Analysis-Python-SQL-PowerBi  
+- Analyzed retail sales data to uncover revenue and sales trends  
+- Cleaned and transformed raw data using Python  
+- Used SQL for querying and Power BI dashboards for performance tracking  
+
+---
+
+## Tools & Technologies
+
+- **Programming & Analysis:** Python, SQL  
+- **Visualization & BI:** Power BI, Excel  
+- **Databases:** MySQL  
+- **Techniques:** Data Cleaning, EDA, ETL (Foundational), KPI Analysis, Reporting  
+
+---
+
+## Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/ravi-kumar-gupta-161745247/  
+- 💻 GitHub: https://github.com/btwitravi  
+- ✉️ Email: Ravikumargupta462@gmail.com  
+
+---
+
+⭐ If you find my projects useful, feel free to explore and give them a star!
+
