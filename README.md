@@ -98,9 +98,11 @@ I enjoy working on real-world datasets, performing data cleaning, exploratory an
 
 ## Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/ravi-kumar-gupta-161745247/  
-- 💻 GitHub: https://github.com/btwitravi  
-- ✉️ Email: Ravikumargupta462@gmail.com  
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-kumar-gupta-161745247/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/btwitravi)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Ravikumargupta462@gmail.com)
 
 ---
 
